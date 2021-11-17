@@ -8,8 +8,8 @@ import SignIn from './Components/SignIn';
 function App() {
   return (
     <div className="App">
-      <Home />
       <Header />
+      <Home />
       <SignIn />
       <Cart />
     </div>
