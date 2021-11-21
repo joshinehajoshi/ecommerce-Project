@@ -8,6 +8,8 @@
     padding: 0px;
 }
 
-.header-bg {
-    background-color: #064444;
+.header {
+    background-color: #064444 !important;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
